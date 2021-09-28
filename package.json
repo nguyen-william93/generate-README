@@ -1,0 +1,27 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "Generate a professional readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyen-william93/generate-README.git"
+  },
+  "keywords": [
+    "generate",
+    "readme",
+    "node.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/nguyen-william93/generate-README/issues"
+  },
+  "homepage": "https://github.com/nguyen-william93/generate-README#readme"
+}
