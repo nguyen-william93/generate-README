@@ -5,13 +5,8 @@ function renderLicenseBadge(license) {
   if (!license){
     return ""
   }
-  const format = {
-    label: "license",
-    message: license,
-    color: "important",
-  }
-  const svg = makeBadge(format)
-  return svg;
+  let badge = "![GitHub](https://img.shields.io/github/license/nguyen-william/hello)"
+  return `${badge}`;
   
 }
 
