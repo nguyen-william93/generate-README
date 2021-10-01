@@ -27,9 +27,9 @@ function generateMarkdown(data) {
   let arr =  data.license;
   console.log(arr.map(license => renderLicenseBadge(license)))
   return `# ${data.title} 
-    ${data.description}
-    ${data.installation}
-    ${data.license.map(license => renderLicenseBadge(license))}`
+    # ${data.description}
+    # ${data.installation}
+    # ${data.license.map(license => renderLicenseBadge(license))}`
   ;
 }
 
