@@ -4,7 +4,8 @@ function renderLicenseBadge(license) {
   if (!license){
     return ""
   }
-  return `https://img.shields.io/badge/license-${license}-important`
+  let temp = license.replace(/ /g, "%20");
+  return `https://img.shields.io/badge/license-${temp}-important`
 }
 
 // TODO: Create a function that returns the license link
