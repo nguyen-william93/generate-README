@@ -1,26 +1,8 @@
-#hello
-
-
-    
-![GitHub](https://img.shields.io/github/license/nguyen-william93/Covid-Tourism-Information-Center?color=green&label=license)
-
-![GitHub](https://img.shields.io/badge/license-MIT-green)
-    
-
-
-![GitHub](https://img.shields.io/github/license/nguyen-william93/Covid-Tourism-Information-Center?color=green&label=license)
-
-![GitHub](https://img.shields.io/badge/License-GNU%20AGPLv3-green),
-![GitHub](https://img.shields.io/badge/License-GNU GPLv3-green),
-![GitHub](https://img.shields.io/badge/License-GNU LGPLv3-green),![GitHub](https://img.shields.io/badge/License-Mozilla Public License 2.0-green)\
-
-
-
-<h1 align="center">a} 👋</h1>
+<h1 align="center">Generate a  Professional README.md  👋</h1>
   
-  ![GitHub](https://img.shields.io/badge/License-GNU%20AGPLv3-green),![GitHub](https://img.shields.io/badge/License-GNU%20GPLv3-green),![GitHub](https://img.shields.io/badge/License-GNU%20LGPLv3-green),![GitHub](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green),![GitHub](https://img.shields.io/badge/License-Apache%20License%202.0-green),![GitHub](https://img.shields.io/badge/License-MIT%20License-green),![GitHub](https://img.shields.io/badge/License-Boost%20Software%20License%201.0-green)
+  ![GitHub](https://img.shields.io/badge/License-GNU%20AGPLv3-green),![GitHub](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green),![GitHub](https://img.shields.io/badge/License-Apache%20License%202.0-green),![GitHub](https://img.shields.io/badge/License-MIT%20License-green)
   ## Description
-  🔍 a
+  🔍 This project is aimed to create a professional readme from the user input. The user will be prompt to enter all the information that is necessary for a professional readme. The code, then, will automatically create a readme base on that input information. This code ultilize the use of node.js (inquirer), javascript and string template.
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -30,30 +12,22 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  💾   This application is covered by the GNU AGPLv3,GNU GPLv3,GNU LGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0 license. adsfasdfewafasdffvaklshrlifhjawe;lfknasklbgrliawhjf;aksndfliauehf;oaisnkvjafnelifhjao;efijasiefhjasefiahsef;asefjnas;iefhaipshejfiabefliuahsefkjlasef
-  asfihliuaewhf;kajsnefkahefjaso'fejas;oiefjakl;senfailhuefoa;isjefo;iasehjfiuahseglijasbenv;kajef;oiajshefoipjaespfojasefhaiusfhjasldfbvjlkghasefliashf
+  💾 1) clone the code 2) install node.js 3) install npm 4) do a npm init 5) do npm install 6) do node index.js
   ## Usage
-  💻   This application is covered by the GNU AGPLv3,GNU GPLv3,GNU LGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0 license. adsfasdfewafasdffvaklshrlifhjawe;lfknasklbgrliawhjf;aksndfliauehf;oaisnkvjafnelifhjao;efijasiefhjasefiahsef;asefjnas;iefhaipshejfiabefliuahsefkjlasef
-  asfihliuaewhf;kajsnefkahefjaso'fejas;oiefjakl;senfailhuefoa;isjefo;iasehjfiuahseglijasbenv;kajef;oiajshefoipjaespfojasefhaiusfhjasldfbvjlkghasefliashf
+  💻 a;lkdjaklsdnvaiuehfa;sknfaiuwefafknav
   ## License
-  ![GitHub](https://img.shields.io/badge/License-GNU%20AGPLv3-green),![GitHub](https://img.shields.io/badge/License-GNU%20GPLv3-green),![GitHub](https://img.shields.io/badge/License-GNU%20LGPLv3-green),![GitHub](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green),![GitHub](https://img.shields.io/badge/License-Apache%20License%202.0-green),![GitHub](https://img.shields.io/badge/License-MIT%20License-green),![GitHub](https://img.shields.io/badge/License-Boost%20Software%20License%201.0-green)
+  ![GitHub](https://img.shields.io/badge/License-GNU%20AGPLv3-green),![GitHub](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green),![GitHub](https://img.shields.io/badge/License-Apache%20License%202.0-green),![GitHub](https://img.shields.io/badge/License-MIT%20License-green)
   <br />
-  This application is covered by the GNU AGPLv3,GNU GPLv3,GNU LGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0 license. adsfasdfewafasdffvaklshrlifhjawe;lfknasklbgrliawhjf;aksndfliauehf;oaisnkvjafnelifhjao;efijasiefhjasefiahsef;asefjnas;iefhaipshejfiabefliuahsefkjlasef
-  asfihliuaewhf;kajsnefkahefjaso'fejas;oiefjakl;senfailhuefoa;isjefo;iasehjfiuahseglijasbenv;kajef;oiajshefoipjaespfojasefhaiusfhjasldfbvjlkghasefliashf
+  This application is covered by the GNU AGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License license. 
   ## Contributing
   👪 undefined
   ## Tests
-  ✏️   This application is covered by the GNU AGPLv3,GNU GPLv3,GNU LGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0 license. adsfasdfewafasdffvaklshrlifhjawe;lfknasklbgrliawhjf;aksndfliauehf;oaisnkvjafnelifhjao;efijasiefhjasefiahsef;asefjnas;iefhaipshejfiabefliuahsefkjlasef
-  asfihliuaewhf;kajsnefkahefjaso'fejas;oiefjakl;senfailhuefoa;isjefo;iasehjfiuahseglijasbenv;kajef;oiajshefoipjaespfojasefhaiusfhjasldfbvjlkghasefliashf
+  ✏️ NO
   ## Questions
-  ✋   This application is covered by the GNU AGPLv3,GNU GPLv3,GNU LGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0 license. adsfasdfewafasdffvaklshrlifhjawe;lfknasklbgrliawhjf;aksndfliauehf;oaisnkvjafnelifhjao;efijasiefhjasefiahsef;asefjnas;iefhaipshejfiabefliuahsefkjlasef
-  asfihliuaewhf;kajsnefkahefjaso'fejas;oiefjakl;senfailhuefoa;isjefo;iasehjfiuahseglijasbenv;kajef;oiajshefoipjaespfojasefhaiusfhjasldfbvjlkghasefliashf<br />
+  ✋ nguyen-william93<br />
   <br />
-  :octocat: Find me on GitHub: [a](https://github.com/a)<br />
+  :octocat: Find me on GitHub: [nguyen-william93](https://github.com/nguyen-william93)<br />
   <br />
-  ✉️ Email me with any questions: a<br /><br />
+  ✉️ Email me with any questions: nguyen.william93@gmail.com<br /><br />
   _This README was generated with ❤️ by [README-generator](https://github.com/nguyen-william93/README-generator) 🔥🔥🔥_
-      
-    This application is covered by the GNU AGPLv3,GNU GPLv3,GNU LGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0 license. adsfasdfewafasdffvaklshrlifhjawe;lfknasklbgrliawhjf;aksndfliauehf;oaisnkvjafnelifhjao;efijasiefhjasefiahsef;asefjnas;iefhaipshejfiabefliuahsefkjlasef
-  asfihliuaewhf;kajsnefkahefjaso'fejas;oiefjakl;senfailhuefoa;isjefo;iasehjfiuahseglijasbenv;kajef;oiajshefoipjaespfojasefhaiusfhjasldfbvjlkghasefliashf
       
