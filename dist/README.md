@@ -1,6 +1,6 @@
 
-  nana 👋
-  [![License](https://img.shields.io/badge/License-GNU%20AGPLv3-green)]yoyoyoy,[![License](https://img.shields.io/badge/License-GNU%20GPLv3-green)]yoyoyoy,[![License](https://img.shields.io/badge/License-GNU%20LGPLv3-green)]yoyoyoy,[![License](https://img.shields.io/badge/License-Mozilla%20Public%20License%202.0-green)]yoyoyoy,[![License](https://img.shields.io/badge/License-Apache%20License%202.0-green)]yoyoyoy,[![License](https://img.shields.io/badge/License-MIT%20License-green)]yoyoyoy,[![License](https://img.shields.io/badge/License-Boost%20Software%20License%201.0-green)]yoyoyoy,[![License](https://img.shields.io/badge/License-The%20Unlicense-green)]yoyoyoy,
+  #nana 👋
+  [![License](https://img.shields.io/badge/License-MIT-green)]https://opensource.org/licenses/MIT
   ## Description
   🔍 nana
   ## Table of Contents
@@ -12,22 +12,24 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  💾 nana
+  nana
   ## Usage
-  💻 nana
+  nana
+  
   ## License
-  ,,,,,,,,
+  [![License](https://img.shields.io/badge/License-MIT-green)]
+  This code is cover under the license of [MIT](https://opensource.org/licenses/MIT)
   <br />
-  This application is covered by the GNU AGPLv3,GNU GPLv3,GNU LGPLv3,Mozilla Public License 2.0,Apache License 2.0,MIT License,Boost Software License 1.0,The Unlicense,None license. 
+  This application is covered by the MIT license. 
   ## Contributing
-  👪 undefined
+  undefined
   ## Tests
   ✏️ nana
   ## Questions
-  ✋ nana<br />
+  nana<br />
   <br />
   :octocat: Find me on GitHub: [nana](https://github.com/nana)<br />
   <br />
   ✉️ Email me with any questions: nana<br /><br />
-  _This README was generated with ❤️ by [README-generator](https://github.com/nguyen-william93/README-generator) 🔥🔥🔥_
+  _This README was generated with  by [README-generator](https://github.com/nguyen-william93/README-generator)_
       
