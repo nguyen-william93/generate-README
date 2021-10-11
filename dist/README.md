@@ -1,8 +1,6 @@
 
   ## Covid Tourism 👋
-  <br />
   [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
-
   ## Description
   Help tourism gather infomatiom about covid and weather data for their travel plan
   ## Table of Contents
