@@ -4,6 +4,7 @@ This code ultilize the node.js techonology. From node.js, we installed a package
 
 ## About
 The story of the code is to:
+<br />
     AS A developer
     I WANT a README generator
     SO THAT I can quickly create a professional README for a new project
@@ -26,5 +27,5 @@ The story of the code is to:
     THEN I am taken to the corresponding section of the README
 
 ## More information
-    Example of produced README.md can found in the ./dist/ directory
-    CLICk [HERE](https://drive.google.com/file/d/1tOwm9p56yTrJGWmFOmxvu3bU_9HBxUlj/view?usp=sharing) to go to the walk through video.
+Example of produced README.md can found in the ./dist/ directory
+CLICk [HERE](https://drive.google.com/file/d/1tOwm9p56yTrJGWmFOmxvu3bU_9HBxUlj/view?usp=sharing) to go to the walk through video.
