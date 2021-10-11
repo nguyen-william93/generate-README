@@ -1,8 +1,8 @@
 
-  #Generate readme 👋
+  #Covid Tourism 👋
   [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
   ## Description
-  🔍 generate a professional readme.md
+  🔍 This webpage is used for research the covid data for each state in the USA
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -12,9 +12,9 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-  clone github, run npm install, run node index.js
+  Either clone the github and run it on a local sever, or you can visit the live link
   ## Usage
-  no usage information
+  Use for researching covid informationa about certain state
   
   ## License
   [![License](https://img.shields.io/badge/License-MIT-green)]
@@ -24,7 +24,7 @@
   ## Contributing
   undefined
   ## Tests
-  ✏️ no test
+  ✏️ No test instruction
   ## Questions
   nguyen-william93<br />
   <br />

@@ -32,7 +32,7 @@ function renderLicenseSection(license) {
   }
   return `
   ## License
-  ${renderLicenseBadge(license)}
+  ${renderLicenseBadge(license)}(${renderLicenseLink(license)})
   <br />
   This code is cover under the license of [${license}](${renderLicenseLink(license)})`
 }
@@ -41,6 +41,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `
   #${data.title} 👋
+  <br />
   ${renderLicenseBadge(data.license)}(${renderLicenseLink(data.license)})
   ## Description
   🔍 ${data.description}
