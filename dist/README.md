@@ -1,8 +1,10 @@
 
-  #Covid Tourism 👋
+  ## Covid Tourism 👋
+  <br />
   [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
+
   ## Description
-  🔍 This webpage is used for research the covid data for each state in the USA
+  Help tourism gather infomatiom about covid and weather data for their travel plan
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -14,22 +16,20 @@
   ## Installation
   Either clone the github and run it on a local sever, or you can visit the live link
   ## Usage
-  Use for researching covid informationa about certain state
-  
+  A one place for all your covid and weather data needs
   ## License
-  [![License](https://img.shields.io/badge/License-MIT-green)]
+  [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
   <br />
   This code is cover under the license of [MIT](https://opensource.org/licenses/MIT)
   <br />
   ## Contributing
-  undefined
+  Help with contributing to keep the covid information updated
   ## Tests
-  ✏️ No test instruction
+  no test instruction
   ## Questions
-  nguyen-william93<br />
   <br />
   Find me on GitHub: [nguyen-william93](https://github.com/nguyen-william93)<br />
   <br />
-  ✉️ Email me with any questions: nguyen.william93@gmail.com<br /><br />
+  Email me with any questions: nguyen.william93@gmail.com<br /><br />
   _This README was generated with  by [README-generator](https://github.com/nguyen-william93/README-generator)_
       
