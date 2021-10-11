@@ -25,9 +25,10 @@
   ## Tests
   no test instruction
   ## Questions
-  <br />
-  Find me on GitHub: [nguyen-william93](https://github.com/nguyen-william93)<br />
-  <br />
-  Email me with any questions: nguyen.william93@gmail.com<br /><br />
-  _This README was generated with  by [README-generator](https://github.com/nguyen-william93/README-generator)_
+  
+  Find me on GitHub: [nguyen-william93](https://github.com/nguyen-william93).  
+  
+  Email me with any questions: nguyen.william93@gmail.com.  
+  
+  This README was generated with  by [README-generator](https://github.com/nguyen-william93/README-generator)
       
