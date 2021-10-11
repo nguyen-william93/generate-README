@@ -29,6 +29,7 @@ function renderLicenseSection(license) {
   return `
   ## License
   ${renderLicenseBadge(license)}
+  <br />
   This code is cover under the license of [${license}](${renderLicenseLink(license)})`
 }
 
@@ -53,7 +54,6 @@ function generateMarkdown(data) {
   ${data.usage}
   ${renderLicenseSection(data.license)}
   <br />
-  This application is covered by the ${data.license} license. 
   ## Contributing
   ${data.contributing}
   ## Tests
